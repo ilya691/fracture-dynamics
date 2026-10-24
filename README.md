@@ -5,22 +5,22 @@ python bet.py --speed скорость проникателя --strength Умн�
 
 Пробитие бетонного блока чугунным предметом
 Варьируется прочность бетона
-![Пробитие бетона малой прочности](C:\Users\user\Desktop\dynamic\images\b\test_strength_1_weak.gif)
-![Пробитие бетона средней прочности](C:\Users\user\Desktop\dynamic\images\b\test_strength_2_normal.gif)
-![Пробитие бетона высокой прочности](C:\Users\user\Desktop\dynamic\images\b\test_strength_3_high.gif)
+![Пробитие бетона малой прочности](\images\test_strength_1_weak.gif)
+![Пробитие бетона средней прочности](images\b\test_strength_2_normal.gif)
+![Пробитие бетона высокой прочности](images\b\test_strength_3_high.gif)
 
 Варьируется скорость проникателя при фиксированной высокой прочности бетона
-![Пробитие бетона малой прочности](C:\Users\user\Desktop\dynamic\images\b\test_speed_1_low.gif)
-![Пробитие бетона средней прочности](C:\Users\user\Desktop\dynamic\images\b\test_speed_2_medium.gif)
-![Пробитие бетона высокой прочности](C:\Users\user\Desktop\dynamic\images\b\test_speed_3_hyper.gif)
+![Пробитие бетона малой прочности](images\b\test_speed_1_low.gif)
+![Пробитие бетона средней прочности](images\b\test_speed_2_medium.gif)
+![Пробитие бетона высокой прочности](images\b\test_speed_3_hyper.gif)
 
 Пробитие железобетонного блока чугунным предметом
 Варьируется прочность железобетона
-![Пробитие бетона малой прочности](C:\Users\user\Desktop\dynamic\images\jb\rebar_weak.gif)
-![Пробитие бетона средней прочности](C:\Users\user\Desktop\dynamic\images\jb\rebar_normal.gif)
-![Пробитие бетона высокой прочности](C:\Users\user\Desktop\dynamic\images\jb\rebar_high.gif)
+![Пробитие бетона малой прочности](images\jb\rebar_weak.gif)
+![Пробитие бетона средней прочности](images\jb\rebar_normal.gif)
+![Пробитие бетона высокой прочности](images\jb\rebar_high.gif)
 
 Варьируется скорость проникателя при фиксированной высокой прочности железобетона
-![Пробитие бетона малой прочности](C:\Users\user\Desktop\dynamic\images\jb\rebar_speed_low.gif)
-![Пробитие бетона средней прочности](C:\Users\user\Desktop\dynamic\images\jb\rebar_speed_med.gif)
-![Пробитие бетона высокой прочности](C:\Users\user\Desktop\dynamic\images\jb\rebar_speed_high.gif)
+![Пробитие бетона малой прочности](images\jb\rebar_speed_low.gif)
+![Пробитие бетона средней прочности](images\jb\rebar_speed_med.gif)
+![Пробитие бетона высокой прочности](images\jb\rebar_speed_high.gif)
