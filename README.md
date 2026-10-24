@@ -5,7 +5,7 @@ python bet.py --speed скорость проникателя --strength Умн�
 
 Пробитие бетонного блока чугунным предметом
 Варьируется прочность бетона
-![Пробитие бетона малой прочности](\images\test_strength_1_weak.gif)
+![Пробитие бетона малой прочности](images\test_strength_1_weak.gif)
 ![Пробитие бетона средней прочности](images\b\test_strength_2_normal.gif)
 ![Пробитие бетона высокой прочности](images\b\test_strength_3_high.gif)
 
