@@ -1,23 +1,26 @@
 Проект динамики разрушения
 
+Интерфейс: 
+python bet.py --speed скорость проникателя --strength Умножает предел прочности бетона на растяжение/сжатие  --stiffness Умножает жесткость связей внутри бетона --frames число кадров --output название файла.gif
+
 Пробитие бетонного блока чугунным предметом
 Варьируется прочность бетона
-![Пробитие бетона малой прочности](C:\Users\user\Desktop\dynamic\b\test_strength_1_weak)
-![Пробитие бетона средней прочности](C:\Users\user\Desktop\dynamic\b\test_strength_2_normal)
-![Пробитие бетона высокой прочности](C:\Users\user\Desktop\dynamic\b\test_strength_3_high)
+![Пробитие бетона малой прочности](C:\Users\user\Desktop\dynamic\images\b\test_strength_1_weak.gif)
+![Пробитие бетона средней прочности](C:\Users\user\Desktop\dynamic\images\b\test_strength_2_normal.gif)
+![Пробитие бетона высокой прочности](C:\Users\user\Desktop\dynamic\images\b\test_strength_3_high.gif)
 
 Варьируется скорость проникателя при фиксированной высокой прочности бетона
-![Пробитие бетона малой прочности](C:\Users\user\Desktop\dynamic\b\test_speed_1_low)
-![Пробитие бетона средней прочности](C:\Users\user\Desktop\dynamic\b\test_speed_2_medium)
-![Пробитие бетона высокой прочности](C:\Users\user\Desktop\dynamic\b\test_speed_3_hyper)
+![Пробитие бетона малой прочности](C:\Users\user\Desktop\dynamic\images\b\test_speed_1_low.gif)
+![Пробитие бетона средней прочности](C:\Users\user\Desktop\dynamic\images\b\test_speed_2_medium.gif)
+![Пробитие бетона высокой прочности](C:\Users\user\Desktop\dynamic\images\b\test_speed_3_hyper.gif)
 
 Пробитие железобетонного блока чугунным предметом
 Варьируется прочность железобетона
-![Пробитие бетона малой прочности](C:\Users\user\Desktop\dynamic\jb\rebar_weak)
-![Пробитие бетона средней прочности](C:\Users\user\Desktop\dynamic\jb\rebar_normal)
-![Пробитие бетона высокой прочности](C:\Users\user\Desktop\dynamic\jb\rebar_high)
+![Пробитие бетона малой прочности](C:\Users\user\Desktop\dynamic\images\jb\rebar_weak.gif)
+![Пробитие бетона средней прочности](C:\Users\user\Desktop\dynamic\images\jb\rebar_normal.gif)
+![Пробитие бетона высокой прочности](C:\Users\user\Desktop\dynamic\images\jb\rebar_high.gif)
 
 Варьируется скорость проникателя при фиксированной высокой прочности железобетона
-![Пробитие бетона малой прочности](C:\Users\user\Desktop\dynamic\jb\rebar_speed_low)
-![Пробитие бетона средней прочности](C:\Users\user\Desktop\dynamic\jb\rebar_speed_med)
-![Пробитие бетона высокой прочности](C:\Users\user\Desktop\dynamic\jb\rebar_speed_high)
+![Пробитие бетона малой прочности](C:\Users\user\Desktop\dynamic\images\jb\rebar_speed_low.gif)
+![Пробитие бетона средней прочности](C:\Users\user\Desktop\dynamic\images\jb\rebar_speed_med.gif)
+![Пробитие бетона высокой прочности](C:\Users\user\Desktop\dynamic\images\jb\rebar_speed_high.gif)
